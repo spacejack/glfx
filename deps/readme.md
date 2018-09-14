@@ -1,0 +1,5 @@
+# Dependencies
+
+Expected directories:
+
+    glm/

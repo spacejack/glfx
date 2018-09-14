@@ -1,0 +1,6 @@
+*.log
+.vscode/*
+!.vscode/c_cpp_properties.example.json
+deps/*
+!deps/readme.md
+dist/glsprite
