@@ -1,5 +1,5 @@
 #ifndef APP_CONFIG_HPP
-#define APP_CONFIG_CPP
+#define APP_CONFIG_HPP
 
 #include <string>
 
