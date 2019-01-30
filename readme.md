@@ -32,4 +32,4 @@ Make a copy of `.vscode/c_cpp_properties.example.json` to `.vscode/c_cpp_propert
 	-sb Use single-buffering
 	-sz Specify window or screen size eg: -sz 1920x1080
 
-If using fullscreen, the app will attempt to determine display size. Sometimes this won't work and you'll need to provide screen dimensions manually.
+If using fullscreen, the app will attempt to determine display size. For some (hopefully rare) OS/hardware/driver combinations this may not work and you'll need to provide screen dimensions manually.
