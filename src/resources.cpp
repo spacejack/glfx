@@ -1,7 +1,5 @@
 #include "resources.hpp"
-#include "glfx/texture.hpp"
 #include "glfx/shader.hpp"
-#include "glfx/program.hpp"
 #include "shaders.hpp"
 
 using namespace std;

@@ -1,5 +1,4 @@
 #include "engine.hpp"
-#include "glfx/sprite.hpp"
 
 using namespace std;
 using namespace GLFX;

@@ -2,8 +2,8 @@
 OBJS = src/glfx/*.cpp src/*.cpp
 
 #CC specifies which compiler we're using
-#CC = g++
-CC = g++-4.8
+CC = g++
+#CC = g++-4.8
 
 #COMPILER_FLAGS specifies the additional compilation options we're using
 #COMPILER_FLAGS = -Ideps

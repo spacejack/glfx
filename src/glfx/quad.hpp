@@ -1,7 +1,6 @@
 #ifndef GLFX_QUAD_HPP
 #define GLFX_QUAD_HPP
 
-#include <vector>
 #include <GL/glew.h>
 
 namespace GLFX {
